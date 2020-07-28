@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5c620fca-8b6f-4868-885a-b8eb637e11d7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Hibernate" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1etdphfcdTCfzPS7pWGEJ8XkufI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.other" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.example.entity" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main9OneToOne">
+    <configuration name="Main5Delete" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.Main5Delete" />
+      <module name="Hibernate" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main6Annotations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.Main6Annotations" />
+      <module name="Hibernate" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main7Embeded" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.Main7Embeded" />
+      <module name="Hibernate" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main8SecondaryTable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.Main8SecondaryTable" />
+      <module name="Hibernate" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main9OneToOne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.Main9OneToOne" />
+      <module name="Hibernate" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main9OneToOne" />
+        <item itemvalue="Application.Main8SecondaryTable" />
+        <item itemvalue="Application.Main7Embeded" />
+        <item itemvalue="Application.Main6Annotations" />
+        <item itemvalue="Application.Main5Delete" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5c620fca-8b6f-4868-885a-b8eb637e11d7" name="Default Changelist" comment="" />
+      <created>1595145007799</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595145007799</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="529" y="136" key="#com.intellij.ide.util.MemberChooser" timestamp="1595166519107">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state x="529" y="136" key="#com.intellij.ide.util.MemberChooser/0.23.1440.797@0.23.1440.797" timestamp="1595166519107" />
+    <state x="356" y="346" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1595150316661">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state x="356" y="346" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.23.1440.797@0.23.1440.797" timestamp="1595150316661" />
+    <state width="1358" height="191" key="GridCell.Tab.0.bottom" timestamp="1595496687521">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state width="1358" height="191" key="GridCell.Tab.0.bottom/0.23.1440.797@0.23.1440.797" timestamp="1595496687521" />
+    <state width="1358" height="191" key="GridCell.Tab.0.center" timestamp="1595496687520">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state width="1358" height="191" key="GridCell.Tab.0.center/0.23.1440.797@0.23.1440.797" timestamp="1595496687520" />
+    <state width="1358" height="191" key="GridCell.Tab.0.left" timestamp="1595496687519">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state width="1358" height="191" key="GridCell.Tab.0.left/0.23.1440.797@0.23.1440.797" timestamp="1595496687519" />
+    <state width="1358" height="191" key="GridCell.Tab.0.right" timestamp="1595496687521">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state width="1358" height="191" key="GridCell.Tab.0.right/0.23.1440.797@0.23.1440.797" timestamp="1595496687521" />
+  </component>
+</project>
