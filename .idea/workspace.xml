@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5c620fca-8b6f-4868-885a-b8eb637e11d7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/entity/School.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/entity/Student.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/Main13ManyToMany.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/Main13ManyToMany.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/entity/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/entity/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/hibernate.cfg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/hibernate.cfg.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/Main14FetchType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/Main14FetchType.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +49,7 @@
       <recent name="com.example.entity" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main13ManyToMany">
+  <component name="RunManager" selected="Application.Main14FetchType">
     <configuration name="Main11PersistCascade" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.example.Main11PersistCascade" />
       <module name="Hibernate" />
@@ -93,8 +89,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main8SecondaryTable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.Main8SecondaryTable" />
+    <configuration name="Main14FetchType" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.Main14FetchType" />
       <module name="Hibernate" />
       <extension name="coverage">
         <pattern>
@@ -121,11 +117,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main14FetchType" />
         <item itemvalue="Application.Main13ManyToMany" />
         <item itemvalue="Application.Main12OneToMany" />
         <item itemvalue="Application.Main11PersistCascade" />
         <item itemvalue="Application.Main9OneToOne" />
-        <item itemvalue="Application.Main8SecondaryTable" />
       </list>
     </recent_temporary>
   </component>

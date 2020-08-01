@@ -14,6 +14,13 @@ public class Main14FetchType {
         Session session = sessionFactory.openSession();
         Transaction transaction = session.beginTransaction();
 
+        School school= session.find(School.class,1L );
+        System.out.println(school.getName());
+
+        school.getStudents().stream()
+                .map(Student::getName)
+                .forEach(System.out::println);
+
 
 
         transaction.commit();
