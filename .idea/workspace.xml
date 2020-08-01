@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5c620fca-8b6f-4868-885a-b8eb637e11d7" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/Main14FetchType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/Main14FetchType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/Main15HQL.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/Main15HQL.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +48,7 @@
       <recent name="com.example.entity" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main14FetchType">
+  <component name="RunManager" selected="Application.Main15HQL">
     <configuration name="Main11PersistCascade" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.example.Main11PersistCascade" />
       <module name="Hibernate" />
@@ -102,8 +101,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main9OneToOne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.Main9OneToOne" />
+    <configuration name="Main15HQL" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.Main15HQL" />
       <module name="Hibernate" />
       <extension name="coverage">
         <pattern>
@@ -117,11 +116,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main15HQL" />
         <item itemvalue="Application.Main14FetchType" />
         <item itemvalue="Application.Main13ManyToMany" />
         <item itemvalue="Application.Main12OneToMany" />
         <item itemvalue="Application.Main11PersistCascade" />
-        <item itemvalue="Application.Main9OneToOne" />
       </list>
     </recent_temporary>
   </component>
@@ -147,25 +146,29 @@
       <screen x="0" y="23" width="1440" height="797" />
     </state>
     <state x="356" y="346" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.23.1440.797@0.23.1440.797" timestamp="1595150316661" />
-    <state width="1356" height="191" key="GridCell.Tab.0.bottom" timestamp="1596287041094">
+    <state width="1356" height="191" key="GridCell.Tab.0.bottom" timestamp="1596288272380">
       <screen x="0" y="23" width="1440" height="797" />
     </state>
-    <state width="1356" height="191" key="GridCell.Tab.0.bottom/0.23.1440.797@0.23.1440.797" timestamp="1596287041094" />
-    <state width="1356" height="191" key="GridCell.Tab.0.center" timestamp="1596287041094">
+    <state width="1356" height="191" key="GridCell.Tab.0.bottom/0.23.1440.797@0.23.1440.797" timestamp="1596288272380" />
+    <state width="1356" height="191" key="GridCell.Tab.0.center" timestamp="1596288272379">
       <screen x="0" y="23" width="1440" height="797" />
     </state>
-    <state width="1356" height="191" key="GridCell.Tab.0.center/0.23.1440.797@0.23.1440.797" timestamp="1596287041094" />
-    <state width="1356" height="191" key="GridCell.Tab.0.left" timestamp="1596287041093">
+    <state width="1356" height="191" key="GridCell.Tab.0.center/0.23.1440.797@0.23.1440.797" timestamp="1596288272379" />
+    <state width="1356" height="191" key="GridCell.Tab.0.left" timestamp="1596288272379">
       <screen x="0" y="23" width="1440" height="797" />
     </state>
-    <state width="1356" height="191" key="GridCell.Tab.0.left/0.23.1440.797@0.23.1440.797" timestamp="1596287041093" />
-    <state width="1356" height="191" key="GridCell.Tab.0.right" timestamp="1596287041094">
+    <state width="1356" height="191" key="GridCell.Tab.0.left/0.23.1440.797@0.23.1440.797" timestamp="1596288272379" />
+    <state width="1356" height="191" key="GridCell.Tab.0.right" timestamp="1596288272380">
       <screen x="0" y="23" width="1440" height="797" />
     </state>
-    <state width="1356" height="191" key="GridCell.Tab.0.right/0.23.1440.797@0.23.1440.797" timestamp="1596287041094" />
+    <state width="1356" height="191" key="GridCell.Tab.0.right/0.23.1440.797@0.23.1440.797" timestamp="1596288272380" />
     <state width="500" height="445" key="SwitcherDM" timestamp="1596275489330">
       <screen x="0" y="23" width="1440" height="797" />
     </state>
     <state width="500" height="445" key="SwitcherDM/0.23.1440.797@0.23.1440.797" timestamp="1596275489330" />
+    <state x="371" y="35" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1596288668672">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state x="371" y="35" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.23.1440.797@0.23.1440.797" timestamp="1596288668672" />
   </component>
 </project>
