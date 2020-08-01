@@ -49,8 +49,6 @@ public class Client {
     }
 
 
-
-
     public void addBook(Book book) {
        this.books.add(book);
        book.setClient(this);
