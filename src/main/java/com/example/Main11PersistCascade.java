@@ -14,8 +14,6 @@ public class Main11PersistCascade {
         Session session = sessionFactory.openSession();
         Transaction transaction = session.beginTransaction();
 
-
-
         Husband husband= session.find(Husband.class,1L);
         session.remove(husband);
 

@@ -2,15 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5c620fca-8b6f-4868-885a-b8eb637e11d7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/Main10PersistCascade.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/Main11PersistCascade.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/Main9OneToOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/Main9OneToOne.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/entity/Husband.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/entity/Husband.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/entity/Wife.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/entity/Wife.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/Main9OneToOne.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/Main9OneToOne.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/entity/Wife.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/entity/Wife.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/Main11PersistCascade.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/Main11PersistCascade.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -152,22 +145,22 @@
       <screen x="0" y="23" width="1440" height="797" />
     </state>
     <state x="356" y="346" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.23.1440.797@0.23.1440.797" timestamp="1595150316661" />
-    <state width="1356" height="191" key="GridCell.Tab.0.bottom" timestamp="1596277011102">
+    <state width="1356" height="191" key="GridCell.Tab.0.bottom" timestamp="1596277056931">
       <screen x="0" y="23" width="1440" height="797" />
     </state>
-    <state width="1356" height="191" key="GridCell.Tab.0.bottom/0.23.1440.797@0.23.1440.797" timestamp="1596277011102" />
-    <state width="1356" height="191" key="GridCell.Tab.0.center" timestamp="1596277011101">
+    <state width="1356" height="191" key="GridCell.Tab.0.bottom/0.23.1440.797@0.23.1440.797" timestamp="1596277056931" />
+    <state width="1356" height="191" key="GridCell.Tab.0.center" timestamp="1596277056931">
       <screen x="0" y="23" width="1440" height="797" />
     </state>
-    <state width="1356" height="191" key="GridCell.Tab.0.center/0.23.1440.797@0.23.1440.797" timestamp="1596277011101" />
-    <state width="1356" height="191" key="GridCell.Tab.0.left" timestamp="1596277011101">
+    <state width="1356" height="191" key="GridCell.Tab.0.center/0.23.1440.797@0.23.1440.797" timestamp="1596277056931" />
+    <state width="1356" height="191" key="GridCell.Tab.0.left" timestamp="1596277056930">
       <screen x="0" y="23" width="1440" height="797" />
     </state>
-    <state width="1356" height="191" key="GridCell.Tab.0.left/0.23.1440.797@0.23.1440.797" timestamp="1596277011101" />
-    <state width="1356" height="191" key="GridCell.Tab.0.right" timestamp="1596277011102">
+    <state width="1356" height="191" key="GridCell.Tab.0.left/0.23.1440.797@0.23.1440.797" timestamp="1596277056930" />
+    <state width="1356" height="191" key="GridCell.Tab.0.right" timestamp="1596277056931">
       <screen x="0" y="23" width="1440" height="797" />
     </state>
-    <state width="1356" height="191" key="GridCell.Tab.0.right/0.23.1440.797@0.23.1440.797" timestamp="1596277011102" />
+    <state width="1356" height="191" key="GridCell.Tab.0.right/0.23.1440.797@0.23.1440.797" timestamp="1596277056931" />
     <state width="500" height="445" key="SwitcherDM" timestamp="1596275489330">
       <screen x="0" y="23" width="1440" height="797" />
     </state>
